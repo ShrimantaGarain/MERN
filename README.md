@@ -2,4 +2,4 @@
 Practical's to my MERN learnings
 
 
-website: https://shrimantagarain.github.io/MERN/
+website: https://shrimantagarain.github.io/Simple-Portfolio/
